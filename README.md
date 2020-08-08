@@ -1,1 +1,2 @@
-# car-drift-2
+# synchronousBallMovement
+Ball moving synchronously
